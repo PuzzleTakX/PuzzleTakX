@@ -11,12 +11,12 @@
 
 <div style="display: flex; justify-content: space-between;">
   <!-- GitHub stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/PuzzleTakX">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=PuzzleTakX" />
   </a>
   
   <!-- Top programming languages -->
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/PuzzleTakX">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=PuzzleTakX&layout=compact&langs_count=8&card_width=320" />
   </a>
 </div>
@@ -25,10 +25,10 @@
 
 ***
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/PuzzleTakX">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/PuzzleTakX">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
