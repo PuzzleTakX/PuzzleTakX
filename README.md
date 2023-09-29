@@ -73,7 +73,7 @@
 
   <!-- Telegram -->
   <a href="https://t.me/puzzletak/" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?label=Telegram&message=%20&color=blue&logo=Telegram&style=flat-square&logoColor=white" alt="Telegram" style="border-radius: 5px; padding: 5px; background-color: #0088CC;">
+    <img src="[https://img.shields.io/static/v1?label=Telegram&message=%20&color=blue&logo=Telegram&style=flat-square&logoColor=white](https://img.shields.io/badge/PuzzleTak-blue?label=EMAIL&message=&logo=gmail&style=flat-square&logoColor=white&text=Email&labelColor=C5211F&color=EC4235)" alt="Telegram" style="border-radius: 5px; padding: 5px; background-color: #0088CC;">
   </a>
 
   <!-- Email -->
