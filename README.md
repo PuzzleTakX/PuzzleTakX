@@ -7,14 +7,16 @@
 ![bahman teymouri nezhad](https://github.com/PuzzleTakX/PuzzleTakX/blob/main/covers.png?raw=true)
 
 
-<details>
-<summary>:eyes: Show example</summary>
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PuzzleTakX" />
 </a>
+|
+|
+|
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PuzzleTakX&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ***
@@ -26,7 +28,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
-</details>
+
 
 
 <details><summary><b>Android Libraries</b></summary>
