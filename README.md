@@ -1,16 +1,19 @@
-### Hi there 👋
+<!-- <p align="center">
+<img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-1abedb.svg?style=flat&logo=github">
+<img alt="Github Viewers" src="https://visitor-badge.glitch.me/badge?page_id=benymaxparsa.benymaxparsa">
+<img alt="Open Source Love" src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-purple">
+</p> -->
 
-<!--
-**PuzzleTakX/PuzzleTakX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![bahman teymouri nezhad](https://github.com/PuzzleTakX/PuzzleTakX/blob/main/cover.png?raw=true)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <br />
+<p align="start">
+  <h1 align="start"> Professional Bio </h1>
+<p h2 align="start">
+
+<p align="start">
+  <h1 align="start"> Stats </h1>
+<p h2 align="start">
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=PuzzleTakX)
