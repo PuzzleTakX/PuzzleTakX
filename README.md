@@ -6,6 +6,10 @@
 
 ![bahman teymouri nezhad](https://github.com/PuzzleTakX/PuzzleTakX/blob/main/covers.png?raw=true)
 
+
+![PuzzleTak GitHub stats](https://github-readme-stats.vercel.app/api?username=PuzzleTakX\&show_icons=true\&theme=transparent)
+
+
 <details><summary><b>Android Libraries</b></summary>
 <p>
 
