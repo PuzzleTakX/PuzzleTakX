@@ -78,7 +78,8 @@
 
   <!-- Email -->
   <a href="mailto:puzzletakx@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white" alt="Email" style="border-radius: 5px; padding: 5px; background-color: #D14836;">
+    <img src="https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white" alt="" style="border-radius: 5px; padding: 5px; background-color: #D14836;">
+    Email
   </a>
 </div>
 
