@@ -55,39 +55,33 @@
 
 </p></details>
 
-
-
 <img width=0 height=0 src="https://komarev.com/ghpvc/?username=PuzzleTakX&color=1C4768" />
 <div align="left">
   <div align="center">
-   <img width="64" alt="PuzzleTak | BahmanTeymouriNezhad" src="https://github.com/PuzzleTakX/PuzzleTakX/blob/main/logo.png?raw=true">
+    <img width="64" alt="PuzzleTak | BahmanTeymouriNezhad" src="https://github.com/PuzzleTakX/PuzzleTakX/blob/main/logo.png?raw=true">
     <br>
     <b>PuzzleTak | BahmanTeymouriNezhad</b>
     <br>
     <br>
 
-<div style="display: flex; gap: 10px;">
-  
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/puzzletak/" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?label=EMAIL&message=PuzzleTak&logo=gmail&style=flat-square&logoColor=white&text=Email&labelColor=C5211F&color=C5211F" alt="Instagram" style="border-radius: 5px; padding: 5px; background-color: #F58529;">
-  </a>
+    <div style="display: flex; gap: 10px;">
 
-    <!-- Instagram -->
-  <a href="https://www.instagram.com/puzzletak/" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?label=EMAIL&message=PuzzleTak&logo=gmail&style=flat-square&logoColor=white&text=Email&labelColor=C5211F&color=C5211F" alt="Instagram" style="border-radius: 5px; padding: 5px; background-color: #F58529;">
-  </a>
+      <!-- Instagram -->
+      <a href="https://www.instagram.com/puzzletak/" style="text-decoration: none;">
+        <img src="https://img.shields.io/static/v1?label=EMAIL&message=PuzzleTak&logo=gmail&style=flat-square&logoColor=white&text=Email&labelColor=C5211F&color=C5211F" alt="Instagram" style="border-radius: 5px; padding: 5px; background-color: #F58529;">
+      </a>
 
+      <!-- Instagram -->
+      <a href="https://www.instagram.com/puzzletak/" style="text-decoration: none;">
+        <img src="https://img.shields.io/static/v1?label=EMAIL&message=PuzzleTak&logo=gmail&style=flat-square&logoColor=white&text=Email&labelColor=C5211F&color=C5211F" alt="Instagram" style="border-radius: 5px; padding: 5px; background-color: #F58529;">
+      </a>
 
-    <!-- Instagram -->
-  <a href="https://www.instagram.com/puzzletak/" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?label=EMAIL&message=PuzzleTak&logo=gmail&style=flat-square&logoColor=white&text=Email&labelColor=C5211F&color=C5211F" alt="Instagram" style="border-radius: 5px; padding: 5px; background-color: #F58529;">
-  </a>
+      <!-- Instagram -->
+      <a href="https://www.instagram.com/puzzletak/" style="text-decoration: none;">
+        <img src="https://img.shields.io/static/v1?label=EMAIL&message=PuzzleTak&logo=gmail&style=flat-square&logoColor=white&text=Email&labelColor=C5211F&color=C5211F" alt="Instagram" style="border-radius: 5px; padding: 5px; background-color: #F58529;">
+      </a>
+    </div>
 
-  
+  </div>
 </div>
 
-
-
-</div>
-</div>
