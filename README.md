@@ -7,14 +7,30 @@
 ![bahman teymouri nezhad](https://github.com/PuzzleTakX/PuzzleTakX/blob/main/covers.png?raw=true)
 
 
-![PuzzleTak GitHub stats](https://github-readme-stats.vercel.app/api?username=PuzzleTakX\&show_icons=true\&theme=transparent)
+<details>
+<summary>:eyes: Show example</summary>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+***
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+</details>
 
 
 <details><summary><b>Android Libraries</b></summary>
 <p>
-
-- [OpWear-Cam](https://github.com/Aghajari/OpWear-Cam)<br>
-Communicating between Wear OS and Android devic and a sample of displaying real-time camera on the watch.
   
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
@@ -33,8 +49,6 @@ Communicating between Wear OS and Android devic and a sample of displaying real-
 
 </p></details>
 
-| <a href="https://github.com/PuzzleTakX"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PuzzleTakX&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=1C4768&hide=contribs,prs" alt="PuzzleTakX" /></a> | <a href="https://github.com/PuzzleTakX"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuzzleTakX&layout=compact&theme=buefy&hide_border=true&title_color=1C4768&langs_count=12&hide=cmake,assembly,meson,html" /></a> |
-| ------------- | ------------- |
 
 
 <img width=0 height=0 src="https://komarev.com/ghpvc/?username=PuzzleTakX&color=1C4768" />
