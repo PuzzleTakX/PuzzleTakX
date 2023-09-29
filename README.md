@@ -78,7 +78,7 @@
 
   <!-- Email -->
   <a href="mailto:puzzletakx@gmail.com" style="text-decoration: none;">
-    <img src="[https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white](https://img.shields.io/badge/PuzzleTak-blue?label=EMAIL&message=&logo=gmail&style=flat-square&logoColor=white&text=Email&labelColor=C5211F&color=EC4235)https://img.shields.io/badge/PuzzleTak-blue?label=EMAIL&message=&logo=gmail&style=flat-square&logoColor=white&text=Email&labelColor=C5211F&color=EC4235" alt="Email" style="border-radius: 15px; padding: 5px; background-color: #D14836;">
+    <img src="[https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white](https://img.shields.io/badge/PuzzleTak-blue?label=EMAIL&message=&logo=gmail&style=flat-square&logoColor=white&text=Email&labelColor=C5211F&color=EC4235)" alt="Email" style="border-radius: 15px; padding: 5px; background-color: #D14836;">
     
   </a>
 </div>
