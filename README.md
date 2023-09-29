@@ -32,13 +32,13 @@
 <img width=0 height=0 src="https://komarev.com/ghpvc/?username=PuzzleTakX&color=1C4768" />
 <div align="left">
   <div align="center">
-   <img width="64" alt="LCoders | AmirHosseinPuzzleTakX" src="https://user-images.githubusercontent.com/30867537/90538314-a0a79200-e193-11ea-8d90-0a3576e28a18.png">
+   <img width="64" alt="PuzzleTak | BahmanTeymouriNezhad" src="https://github.com/PuzzleTakX/PuzzleTakX/blob/main/logo.png?raw=true">
     <br>
     <b>AmirHosseinPuzzleTakX</b>
     <br>
     <br>
-    <a href="https://www.instagram.com/amirhossein_PuzzleTakX/"><img src="https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&flat-square&logoColor=white"></a>
-    <a href="https://t.me/LCoders/"><img src="https://img.shields.io/static/v1?label=Telegram&message=%20&color=blue&logo=Telegram&style=flat-square&logoColor=white"></a>
-    <a href="mailto:amirhossein.PuzzleTakX.82@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white"></a>
+    <a href="https://www.instagram.com/puzzletak/"><img src="https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&flat-square&logoColor=white"></a>
+    <a href="https://t.me/puzzletak/"><img src="https://img.shields.io/static/v1?label=Telegram&message=%20&color=blue&logo=Telegram&style=flat-square&logoColor=white"></a>
+    <a href="mailto:puzzletakx@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white"></a>
   </div>
 </div>
