@@ -16,4 +16,6 @@
   <h1 align="start"> Stats </h1>
 <p h2 align="start">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=PuzzleTakX)
+
+| <a href="https://github.com/Aghajari"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aghajari&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=1C4768&hide=contribs,prs" alt="Aghajari" /></a> | <a href="https://github.com/Aghajari"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aghajari&layout=compact&theme=buefy&hide_border=true&title_color=1C4768&langs_count=12&hide=cmake,assembly,meson,html" /></a> |
+
