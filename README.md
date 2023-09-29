@@ -7,7 +7,7 @@
 ![bahman teymouri nezhad](https://github.com/PuzzleTakX/PuzzleTakX/blob/main/covers.png?raw=true)
 
 
-
+***
 
 <div style="display: flex; justify-content: space-between;">
   <!-- GitHub stats -->
@@ -22,66 +22,47 @@
 </div>
 
 
-
 ***
-
-<a href="https://github.com/PuzzleTakX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/PuzzleTakX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
-
-
-
-<details><summary><b>Android Libraries</b></summary>
+<details><summary><b>C++ & Dart</b></summary>
 <p>
   
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
-| [AutoAnimate](https://github.com/Aghajari/AutoAnimate)|1.0.2|AutoAnimate is a custom Shared Element Transition that automatically animates your views based on Figma Smart Animate.|
-| [AXPathLoadingView](https://github.com/Aghajari/AXPathLoadingView)|1.0.1|A simple android view to create loading with a Path.|
-| [XmlByPass](https://github.com/Aghajari/XmlByPass)|1.0.1|Get the Highest Android UI performance! XmlByPass is an annotationProcessor library for Android which auto generates the java code of your xml layouts in Source level (before compile)|
-| [AXAnimation](https://github.com/Aghajari/AXAnimation)|1.0.1|AXAnimation is an Android Library which can simply animate views and everything!|
-| [AXEmojiView](https://github.com/Aghajari/AXEmojiView)|1.5.2|an advanced library which adds emoji,sticker,... support to your Android application|
-| [AXMemojiView](https://github.com/Aghajari/AXMemojiView)|1.1.0|a new page for AXEmojiView which shows memoji just like stickers|
-| [AXrLottie](https://github.com/Aghajari/AXrLottie)|1.4.0|AXrLottie ([rlottie](https://github.com/Samsung/rlottie)) Renders animations and vectors exported in the bodymovin JSON format.|
-| [AXGraphView](https://github.com/Aghajari/AXGraphView)|1.1.0|AXGraphView creates zoomable and scrollable graphs.|
-| [ZoomHelper](https://github.com/Aghajari/ZoomHelper)|1.1.0|ZoomHelper will make any view to be zoomable just like Instagram pinch-to-zoom|
-| [AXParallelImageView](https://github.com/Aghajari/AXParallelImageView)|1.0.0|Parallel Line Collage ImageView.|
-| [AXSpannableText](https://github.com/Aghajari/AXSpannableText)|1.0.0|Supports Hashtag(#), Mention(@), URLs, Phone, Email, Markdown,...in all TextView widgets|
-| [AXPowerView](https://github.com/Aghajari/AXPowerView)|1.0.0|an Android PowerView with awesome animations and circular loading|
+| [puzzletak_neon_widget](https://github.com/PuzzleTakX/puzzletak_neon_widget)|1.0.0| A Neon widget for Flutter: With this widget, you can bring all your text to life with neon animations for flutter|
+| [NavigationView](https://github.com/PuzzleTakX/navigation_view)|1.0.1| NavigationView is a Flutter package that provides a navigation component with customizable colors and icons.|
+| [RingSizerView](https://github.com/PuzzleTakX/ring_size_view)|1.0.5| A Flutter package that provides a custom widget for calculating and displaying ring sizes.|
+
+</p></details>
+
+<details><summary><b>Java</b></summary>
+<p>
+  
+|Name|Version|Description|
+| :---------------- | :----------------: | :---------------- |
+| [PuzzleTak_AudioWaveSeekBar](https://github.com/PuzzleTakX/PuzzleTak_AudioWaveSeekBar)|1.0.0| PuzzleTak_AudioWaveSeekBar a libray for android and basic4android|
+
+</p></details>
+
+<details><summary><b>visual Basic</b></summary>
+<p>
+  
+|Name|Version|Description|
+| :---------------- | :----------------: | :---------------- |
+| [Loading](https://github.com/PuzzleTakX/Loading)|1.0.0| Loading library for basic4android custom class|
+| [PuzzleTak AudioPlayer](https://github.com/PuzzleTakX/PuzzleTak_AudioPlayer)|1.0.0| Audio Playback Library with Visualizer library for basic4android custom class|
 
 </p></details>
 
 <img width=0 height=0 src="https://komarev.com/ghpvc/?username=PuzzleTakX&color=1C4768" />
 <div align="left">
   <div align="center">
-    <img width="64" alt="PuzzleTak | BahmanTeymouriNezhad" src="https://github.com/PuzzleTakX/PuzzleTakX/blob/main/logo.png?raw=true">
+   <img width="64" alt="PuzzleTak | BahmanTeymouriNezhad" src="https://github.com/PuzzleTakX/PuzzleTakX/blob/main/logo.png?raw=true">
     <br>
     <b>PuzzleTak | BahmanTeymouriNezhad</b>
     <br>
     <br>
-
-    <div style="display: flex; gap: 10px;">
-
-      <!-- Instagram -->
-      <a href="https://www.instagram.com/puzzletak/" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?label=EMAIL&message=PuzzleTak&logo=gmail&style=flat-square&logoColor=white&text=Email&labelColor=C5211F&color=C5211F" alt="Instagram" style="border-radius: 5px; padding: 5px; background-color: #F58529;">
-      </a>
-
-      <!-- Instagram -->
-      <a href="https://www.instagram.com/puzzletak/" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?label=EMAIL&message=PuzzleTak&logo=gmail&style=flat-square&logoColor=white&text=Email&labelColor=C5211F&color=C5211F" alt="Instagram" style="border-radius: 5px; padding: 5px; background-color: #F58529;">
-      </a>
-
-      <!-- Instagram -->
-      <a href="https://www.instagram.com/puzzletak/" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?label=EMAIL&message=PuzzleTak&logo=gmail&style=flat-square&logoColor=white&text=Email&labelColor=C5211F&color=C5211F" alt="Instagram" style="border-radius: 5px; padding: 5px; background-color: #F58529;">
-      </a>
-    </div>
-
+    <a href="https://www.instagram.com/puzzletak/"><img src="https://img.shields.io/static/v1?label=Instagram&message=%3E&color=F74262&logo=Instagram&flat-square&logoColor=white&labelColor=F74262"></a>
+    <a href="https://t.me/puzzletak/"><img src="https://img.shields.io/static/v1?label=Telegram&message=%3E&color=0084C6&logo=Telegram&flat-square&logoColor=white&labelColor=0084C6"></a>
+    <a href="mailto:puzzletakx@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=%3E&color=C5211F&logo=gmail&flat-square&logoColor=white&labelColor=C5211F"></a>
   </div>
 </div>
-
