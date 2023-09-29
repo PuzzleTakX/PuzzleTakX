@@ -65,8 +65,22 @@
     <b>PuzzleTak | BahmanTeymouriNezhad</b>
     <br>
     <br>
-    <a href="https://www.instagram.com/puzzletak/"><img src="https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&flat-square&logoColor=white"></a>
-    <a href="https://t.me/puzzletak/"><img src="https://img.shields.io/static/v1?label=Telegram&message=%20&color=blue&logo=Telegram&style=flat-square&logoColor=white"></a>
-    <a href="mailto:puzzletakx@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white"></a>
+<div style="display: flex; gap: 10px;">
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/puzzletak/" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&flat-square&logoColor=white" alt="Instagram" style="border-radius: 5px; padding: 5px; background-color: #F58529;">
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/puzzletak/" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?label=Telegram&message=%20&color=blue&logo=Telegram&style=flat-square&logoColor=white" alt="Telegram" style="border-radius: 5px; padding: 5px; background-color: #0088CC;">
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:puzzletakx@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white" alt="Email" style="border-radius: 5px; padding: 5px; background-color: #D14836;">
+  </a>
+</div>
+
   </div>
 </div>
