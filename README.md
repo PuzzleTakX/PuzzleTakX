@@ -4,7 +4,7 @@
 <img alt="Open Source Love" src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-purple">
 </p> -->
 
-![bahman teymouri nezhad](https://github.com/PuzzleTakX/PuzzleTakX/blob/main/cover.png?raw=true)
+![bahman teymouri nezhad](https://github.com/PuzzleTakX/PuzzleTakX/blob/main/covers.png?raw=true)
 
 
  <br />
