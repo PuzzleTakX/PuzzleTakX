@@ -34,7 +34,7 @@
   <div align="center">
    <img width="64" alt="PuzzleTak | BahmanTeymouriNezhad" src="https://github.com/PuzzleTakX/PuzzleTakX/blob/main/logo.png?raw=true">
     <br>
-    <b>AmirHosseinPuzzleTakX</b>
+    <b>PuzzleTak | BahmanTeymouriNezhad</b>
     <br>
     <br>
     <a href="https://www.instagram.com/puzzletak/"><img src="https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&flat-square&logoColor=white"></a>
