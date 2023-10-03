@@ -10,10 +10,55 @@
   <h1>
     <a href="https://github.com/kebasyaty/kebasyaty">
       <img alt="Welcome text"
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6C21C1&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+PuzzleTak%F0%9F%91%8B">
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6855D3&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+PuzzleTak%F0%9F%91%8B">
     </a>
   </h1>
 </div>
+
+# :alien: Skills:
+
+<div align="center">
+  <p align="center">
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150">
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/kebasyaty">
+      <img alt="Languages" src="https://img.shields.io/badge/Languages:-6855D3">
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/PuzzleTakX?tab=repositories">
+      <img alt="Skills" src="https://skillicons.dev/icons?i=dart,kotlin,java,cpp">
+    </a>
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/PuzzleTakX">
+      <img alt="Development" src="https://img.shields.io/badge/Development:-6855D3">
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/PuzzleTakX?tab=repositories">
+      <img alt="Skills" src="https://skillicons.dev/icons?i=flutter,vscode,androidstudio" />
+    </a>
+  </p>
+  <p align="center">
+    <div>
 
 ***
 
@@ -70,7 +115,7 @@
     <br>
      <br>
     <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kebasyaty&label=Profile%20views&color=00cd00&style=for-the-badge"
+  <img src="https://komarev.com/ghpvc/?username=PuzzleTakX&label=Profile%20views&color=00cd00&style=for-the-badge"
     alt="Profile Views">
 </p>
     <p align="center">
