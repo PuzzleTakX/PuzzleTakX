@@ -10,7 +10,7 @@
   <h1>
     <a href="https://github.com/kebasyaty/kebasyaty">
       <img alt="Welcome text"
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+PuzzleTak%F0%9F%91%8B">
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6C21C1&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+PuzzleTak%F0%9F%91%8B">
     </a>
   </h1>
 </div>
