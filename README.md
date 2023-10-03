@@ -70,6 +70,10 @@
     <br>
      <br>
     <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kebasyaty&label=Profile%20views&color=00cd00&style=for-the-badge"
+    alt="Profile Views">
+</p>
+    <p align="center">
   <img alt="Profile Counter" src="https://profile-counter.glitch.me/PuzzleTakX/count.svg">
 </p>
     <br>
