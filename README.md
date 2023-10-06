@@ -81,9 +81,9 @@
   
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
-| [puzzletak_neon_widget](https://github.com/PuzzleTakX/puzzletak_neon_widget)|1.0.0| A Neon widget for Flutter: With this widget, you can bring all your text to life with neon animations for flutter|
-| [NavigationView](https://github.com/PuzzleTakX/navigation_view)|1.0.1| NavigationView is a Flutter package that provides a navigation component with customizable colors and icons.|
-| [RingSizerView](https://github.com/PuzzleTakX/ring_size_view)|1.0.5| A Flutter package that provides a custom widget for calculating and displaying ring sizes.|
+| [puzzletak_neon_widget](https://github.com/PuzzleTakX/puzzletak_neon_widget)|1.0.5| A Neon widget for Flutter: With this widget, you can bring all your text to life with neon animations for flutter|
+| [NavigationView](https://github.com/PuzzleTakX/navigation_view)|1.0.6| NavigationView is a Flutter package that provides a navigation component with customizable colors and icons.|
+| [RingSizerView](https://github.com/PuzzleTakX/ring_size_view)|1.0.9| A Flutter package that provides a custom widget for calculating and displaying ring sizes.|
 
 </p></details>
 
