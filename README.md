@@ -81,6 +81,7 @@
   
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
+| [flutter_stepindicator](https://github.com/PuzzleTakX/flutter_stepindicator)|0.0.2| FlutterStepIndicator is a versatile Flutter widget designed for creating step indicators to visualize multi-step processes. It offers extensive customization options and features to enhance the user experience.|
 | [puzzletak_neon_widget](https://github.com/PuzzleTakX/puzzletak_neon_widget)|1.0.5| A Neon widget for Flutter: With this widget, you can bring all your text to life with neon animations for flutter|
 | [NavigationView](https://github.com/PuzzleTakX/navigation_view)|1.0.6| NavigationView is a Flutter package that provides a navigation component with customizable colors and icons.|
 | [RingSizerView](https://github.com/PuzzleTakX/ring_size_view)|1.0.9| A Flutter package that provides a custom widget for calculating and displaying ring sizes.|
