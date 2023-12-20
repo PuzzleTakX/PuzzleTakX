@@ -15,7 +15,7 @@
   </h1>
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PuzzleTak&theme=darkhub" alt="PuzzleTakX" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PuzzleTakX&theme=darkhub" alt="PuzzleTakX" /></a> </p>
 
 
 # :alien: Skills:
