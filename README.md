@@ -75,6 +75,13 @@
   <a href="https://github.com/PuzzleTakX">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=PuzzleTakX&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
   </a>
+
+ 
+  <!-- Toping -->
+  <a href="https://github.com/PuzzleTakX">
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=marjanmokhtari&theme=github_dark&hide_border=false" />
+  </a>
+  
 </div>
 
 
