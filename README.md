@@ -1,119 +1,32 @@
-<!-- <p align="center">
-<img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-1abedb.svg?style=flat&logo=github">
-<img alt="Github Viewers" src="https://visitor-badge.glitch.me/badge?page_id=benymaxparsa.benymaxparsa">
-<img alt="Open Source Love" src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-purple">
-</p> -->
-
+<!-- تصویر کاور -->
 ![bahman teymouri nezhad](https://github.com/PuzzleTakX/PuzzleTakX/blob/main/covers.png?raw=true)
 
+<!-- بخش خوش‌آمدگویی -->
 <div align="center">
   <h1>
-    <a href="https://github.com/PuzzleTakx/PuzzleTakx">
+    <a href="https://github.com/PuzzleTakX/PuzzleTakX">
       <img alt="Welcome text"
         src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6855D3&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+PuzzleTak%F0%9F%91%8B">
     </a>
   </h1>
 </div>
 
-
-# :alien: Skills:
-
-<div align="center">
-  <p align="center">
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150">
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/kebasyaty">
-      <img alt="Languages" src="https://img.shields.io/badge/Languages:-6855D3">
-    </a>
-  </p>
-</div>
-
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/PuzzleTakX?tab=repositories">
-      <img alt="Skills" src="https://skillicons.dev/icons?i=dart,kotlin,java,cpp">
-    </a>
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/PuzzleTakX">
-      <img alt="Development" src="https://img.shields.io/badge/Development:-6855D3">
-    </a>
-  </p>
-</div>
-
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/PuzzleTakX?tab=repositories">
-      <img alt="Skills" src="https://skillicons.dev/icons?i=flutter,vscode,androidstudio" />
-    </a>
-  </p>
-  <p align="center">
-    <div>
-
-***
-
-<div style="display: flex; justify-content: space-between;">
+<!-- آمار گیت‌هاب -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
   <!-- GitHub stats -->
   <a href="https://github.com/PuzzleTakX">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=PuzzleTakX&theme=github_dark" />
   </a>
-  
+
   <!-- Top programming languages -->
   <a href="https://github.com/PuzzleTakX">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=PuzzleTakX&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
   </a>
-
- 
-  <!-- Toping -->
-  <a href="https://github.com/PuzzleTakX">
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=marjanmokhtari&theme=github_dark&hide_border=false" />
-  </a>
-  
 </div>
 
 
-***
-<details><summary><b>C++ & Dart</b></summary>
-<p>
-  
-|Name|Version|Description|
-| :---------------- | :----------------: | :---------------- |
-| [flutter_stepindicator](https://github.com/PuzzleTakX/flutter_stepindicator)|0.1.7| FlutterStepIndicator is a versatile Flutter widget designed for creating step indicators to visualize multi-step processes. It offers extensive customization options and features to enhance the user experience.|
-| [puzzletak_neon_widget](https://github.com/PuzzleTakX/puzzletak_neon_widget)|1.0.5| A Neon widget for Flutter: With this widget, you can bring all your text to life with neon animations for flutter|
-| [NavigationView](https://github.com/PuzzleTakX/navigation_view)|1.0.6| NavigationView is a Flutter package that provides a navigation component with customizable colors and icons.|
-| [RingSizerView](https://github.com/PuzzleTakX/ring_size_view)|1.0.9| A Flutter package that provides a custom widget for calculating and displaying ring sizes.|
 
-</p></details>
 
-<details><summary><b>Java</b></summary>
-<p>
-  
-|Name|Version|Description|
-| :---------------- | :----------------: | :---------------- |
-| [PuzzleTak_AudioWaveSeekBar](https://github.com/PuzzleTakX/PuzzleTak_AudioWaveSeekBar)|1.0.0| PuzzleTak_AudioWaveSeekBar a libray for android and basic4android|
-
-</p></details>
-
-<details><summary><b>visual Basic</b></summary>
-<p>
-  
-|Name|Version|Description|
-| :---------------- | :----------------: | :---------------- |
-| [Loading](https://github.com/PuzzleTakX/Loading)|1.0.0| Loading library for basic4android custom class|
-| [PuzzleTak AudioPlayer](https://github.com/PuzzleTakX/PuzzleTak_AudioPlayer)|1.0.0| Audio Playback Library with Visualizer library for basic4android custom class|
-
-</p></details>
 
 <img width=0 height=0 src="https://komarev.com/ghpvc/?username=PuzzleTakX&color=1C4768" />
 <div align="left">
